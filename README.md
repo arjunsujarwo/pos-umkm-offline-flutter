@@ -178,11 +178,6 @@ dan backup berada di perangkat pengguna. Karena itu:
 3. Jalankan `flutter analyze` sebelum commit.
 4. Buat pull request dengan deskripsi perubahan yang jelas.
 
-## Lisensi
-
-Silakan tambahkan lisensi yang sesuai sebelum mendistribusikan project ini
-secara luas.
-
 <div align="center">
 
 **Dibuat untuk membantu UMKM berjualan lebih praktis.**
