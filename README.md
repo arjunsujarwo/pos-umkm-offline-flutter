@@ -13,8 +13,12 @@ tanpa bergantung pada koneksi internet.
   <a href="https://github.com/arjunsujarwo/pos-umkm-offline-flutter/releases/latest">
     <img src="https://img.shields.io/github/v/release/arjunsujarwo/pos-umkm-offline-flutter?style=for-the-badge&logo=github&label=Release" alt="Latest release">
   </a>
-  <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter" alt="Flutter">
-  <img src="https://img.shields.io/badge/Offline--first-1E7A4C?style=for-the-badge" alt="Offline first">
+  <a href="https://flutter.dev/" title="Buka situs resmi Flutter">
+    <img src="https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter" alt="Flutter">
+  </a>
+  <a href="#catatan-offline-privasi" title="Lihat penjelasan mode offline">
+    <img src="https://img.shields.io/badge/Offline--first-1E7A4C?style=for-the-badge" alt="Offline first">
+  </a>
 </p>
 
 <p>
