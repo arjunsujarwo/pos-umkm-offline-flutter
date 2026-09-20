@@ -1,0 +1,49 @@
+name: pos_umkm_offline
+description: Aplikasi POS offline untuk UMKM berbasis Flutter.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.9.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State management sederhana dan mudah dipahami.
+  provider: ^6.1.5
+
+  # Database lokal SQLite.
+  sqflite: ^2.4.2
+  sqflite_common_ffi: ^2.3.6
+
+  # Lokasi database di perangkat.
+  path: ^1.9.1
+  path_provider: ^2.1.5
+
+  # Memilih file/logo dari perangkat.
+  file_picker: ^13.0.0
+
+  # Membuat QR Code pembayaran.
+  qr_flutter: ^4.1.0
+
+  # Mencetak PDF/struk ke printer yang tersedia di OS.
+  printing: ^5.14.2
+  pdf: ^3.11.3
+
+  # Format rupiah dan tanggal.
+  intl: ^0.20.2
+
+  # Menyimpan pengaturan sederhana.
+  shared_preferences: ^2.5.3
+
+  excel_plus: ^2.20.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo_aplikasi.png
